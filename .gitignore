@@ -91,4 +91,3 @@ server.pid
 ### Scala template
 *.class
 *.log
-
